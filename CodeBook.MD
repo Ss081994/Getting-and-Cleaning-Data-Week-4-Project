@@ -4,7 +4,7 @@
 
 
 ##Description
-This code book summarizes the data and variables in tidyData.txt -- this is the
+This code book summarizes the data and variables in tidyData.txt - this is the
 output of the Week 4 project in the JHU course Getting & Cleaning Data while providing
 information on the Data Set and Attributes used from the original study
 
